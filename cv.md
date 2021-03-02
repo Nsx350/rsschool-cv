@@ -24,3 +24,4 @@
  * BSU seminar (labor protection at enterprises) gradueted in 2020
 #### Skills: HTML&CSS ( a little)
 #### English (child level)
+
